@@ -1,8 +1,3 @@
-Starship-Commando
-=================
-
-15-112 Fundamentals of Programming and Computer Science term project
-
 About the game:
 
 Starship Commando is a side-scrolling space-shooter. The objective is to destroy enemy ships and collect shield upgrades as you fly your way to the enemy mothership (boss).
