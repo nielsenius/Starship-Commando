@@ -11,7 +11,7 @@ You may select one of three difficulty settings: easy, medium, or hard. As the d
 
 Control your ship using the arrow keys and shoot lasers using the space bar. Pause the game by pressing “p” and quit the game by pressing “q”. 
 
-If your starship is shoot by an enemy laser and you have no shields, you lose a life. If you hit anything, you lose a life.
+If your starship is shot by an enemy laser and you have no shields, you lose a life. If you hit anything, you lose a life.
 
 High scores are recorded when the player dies or beats the game.
 
